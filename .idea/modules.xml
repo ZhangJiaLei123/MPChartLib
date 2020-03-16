@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib-MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib-MPChartLib.iml" group="MPChartLib/MPChartLib" />
+      <module fileurl="file://$PROJECT_DIR$/app/MPChartLib-app.iml" filepath="$PROJECT_DIR$/app/MPChartLib-app.iml" group="MPChartLib/app" />
+      <module fileurl="file://$PROJECT_DIR$/androidLib-MPChartLib.iml" filepath="$PROJECT_DIR$/androidLib-MPChartLib.iml" group="MPChartLib" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mpchart.iml" filepath="$PROJECT_DIR$/mpchart.iml" />
     </modules>
